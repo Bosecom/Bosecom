@@ -2,7 +2,7 @@
 - 👀 I’m interested in Changing the world for the better
 - 🌱 I’m currently learning PHP, Java and Laravel
 - 💞️ I’m looking to collaborate on Nothing right now
-- 📫 How to reach me ...
+- 📫 How to reach me ... Skype Bosecom Admin or Whatsapp 02033933925
 
 <!---
 Bosecom/Bosecom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
